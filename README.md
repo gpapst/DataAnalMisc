@@ -1,2 +1,2 @@
-# DataAnalMisc
-Various projects/trainning
+## DataAnalMisc
+Various miscellaneous projects/trainning
